@@ -1,0 +1,48 @@
+.main {
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+    border: 2px solid #bbb000;
+    border-bottom: 0px;
+    margin-top: 20px;
+    font-family: sans-serif;
+}
+h1 {
+    text-align:center;
+    background-color: #000bbb;
+    padding:30px;
+    margin-top: 0px;
+    color: #bbbbbb;
+}
+.pushList{
+    position:relative;
+    padding-bottom:0px;
+    height:30px;
+}
+.pushList button{
+    height:45px;
+    width:50px;
+    padding:5px;
+}
+.pushText{
+    width:80%;
+    height:30px;
+    padding:5px;
+    font-size:20px;
+}
+ul{
+    list-style:none;
+    font-size:20px;
+    color:#444444;
+}
+li{
+border-bottom:2px solid #bbbbbb;
+background-color:#b1b1b1;
+padding:10px 0px;
+}
+span{
+    cursor: pointer;
+    position: relative;
+    float:right;
+    margin-right:5px;
+}
